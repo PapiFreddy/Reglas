@@ -1,0 +1,2 @@
+# Reglas
+Reglas de colaboracion
